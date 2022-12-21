@@ -12,7 +12,8 @@
 ---
 ### 📓: About me :
 - I’m interested in Cybersecurity, Hacking, CTF, OS and scripting.
-- I’m currently learning OSCP 
+- CRTO
+- I’m currently learning OSCP and CRTL
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
