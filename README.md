@@ -31,7 +31,7 @@
 ---
 
 ### :writing_hand: Blog Posts :
-[See my latest posts](https://dambasement.net/)
+[See my latest posts](https://www.linkedin.com/in/damiano-b-65965b266/)
 
 <!---
 DamBasement/DamBasement is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
