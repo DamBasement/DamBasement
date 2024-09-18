@@ -1,12 +1,9 @@
-# 👋 Hi there! Welcome to my personal Github page 
+# 👋 Hi there! 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/TNqMlgTuv5jJ6/giphy.gif" width="500"/>
 </div>
 <div id="header" align="center">
-  <a href="https://twitter.com/DeadCip">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 ---
@@ -17,6 +14,7 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" title="Debian" **alt="Debian" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="50" height="50"/>&nbsp;
