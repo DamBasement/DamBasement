@@ -9,8 +9,7 @@
 ---
 ### 📓: About me :
 - Red Team, Hacking, CTF, OS.
-- CRTO || OSCP
-- Next step OSEP
+- CRTO || OSCP 
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
