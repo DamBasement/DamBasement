@@ -1,6 +1,6 @@
-# 🧱 Damiano "Nikita" Bassani
+# [0xN1K1T4] Damiano Bassani
 
-> _Offensive Security Specialist & Red Team Architect. Building exploits, breaking assumptions, and bending protocols._
+> _Offensive Security Specialist & Resilience Architect. Building exploits, breaking assumptions, and bending protocols._
 
 <div align="center">
   <img src="https://media.giphy.com/media/TNqMlgTuv5jJ6/giphy.gif" width="500"/>
@@ -18,9 +18,9 @@ I'm a resilience architect and offensive security professional with a deep focus
 - System architecture for critical infrastructure and cross-domain solutions  
 - Custom tooling development in Python/Bash/C for attack surface extension
 
-Formerly at IBM, now operating within high assurance environments. Active on CTFs, writeups, and offensive research.
+Now operating within high assurance environments. Active on CTFs, writeups, and offensive research.
 
-Certifications: **CRTO**, **OSCP**, preparing for **OSCE3**-level workflows.
+Certifications: **CRTO**, **OSCP**.
 
 ---
 
