@@ -1,6 +1,6 @@
 # 🧱 Damiano "Nikita" Bassani
 
-> _Red teamer. Offensive strategist. OS dissecting addict. Code breaker with a grudge._
+> _Offensive Security Specialist & Red Team Architect. Building exploits, breaking assumptions, and bending protocols._
 
 <div align="center">
   <img src="https://media.giphy.com/media/TNqMlgTuv5jJ6/giphy.gif" width="500"/>
@@ -8,35 +8,51 @@
 
 ---
 
-### 🧠 Who I Am  
-- 💣 Red Team Operator  
-- 🔧 Adversary Simulation, Wi-Fi attacks, C2 customization  
-- 🧬 CRTO | OSCP | ex-IBM OffSec Specialist  
-- 📍 Rome-based, globally focused  
+### 👤 About
+
+I'm a resilience architect and offensive security professional with a deep focus on:
+
+- Adversary simulation & red teaming  
+- Wi-Fi and radio protocol exploitation (WEP, WPA2/Enterprise, PMKID, rogue AP)  
+- Embedded & automotive reverse engineering (CAN, UDS, OTA spoofing)  
+- System architecture for critical infrastructure and cross-domain solutions  
+- Custom tooling development in Python/Bash/C for attack surface extension
+
+Formerly at IBM, now operating within high assurance environments. Active on CTFs, writeups, and offensive research.
+
+Certifications: **CRTO**, **OSCP**, preparing for **OSCE3**-level workflows.
 
 ---
 
-### ⚙️ Arsenal  
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="BASH" alt="BASH" width="40" height="40"/>&nbsp;
-</div>
+### 🧰 Tech Stack & Tools
+
+- 🐧 Linux (Debian-based) | Wireshark | Aircrack-ng | hostapd-wpe | hcxdumptool  
+- 🐍 Python | Bash | C | custom protocol fuzzers  
+- 🔍 Burp Suite Pro | ffuf | mitmproxy | TLS/PKI analysis  
+- 🔩 Docker | Git | static/dynamic RE (Ghidra, radare2, binwalk, qiling)  
+
+I build my own testing environments, wireless labs, and often operate over SSH-only constrained systems.
 
 ---
 
-### 📊 Stats and Signals  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DamBasement&theme=dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamBasement&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🗂️ GitHub Focus
+
+Most of my public repos serve as:
+
+- Operational reference for wireless attacks  
+- Red team PoC tooling  
+- Notes and automation for reverse engineering tasks  
+- Threat modeling scripts for cross-domain architecture reviews
+
+Check: [github.com/DamBasement/DamBasement](https://github.com/DamBasement/DamBasement)
 
 ---
 
-### 📝 Blog + War Stories  
-➡ [Latest posts, thoughts, and ops](https://www.linkedin.com/in/damiano-b-65965b266/)
+### 📫 Contact
+
+Ping me: `nikita@protonmail.com`  
+I don't use PGP yet — just drop it clear.
 
 ---
 
-> “All signal. No noise.”
+> “Everything encrypted, everything tested. Brutalist by design.”
