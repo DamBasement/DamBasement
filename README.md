@@ -1,4 +1,4 @@
-# [0xN1K1T4] Damiano Bassani
+# [0xD4nt3] Damiano Bassani
 
 > _Offensive Security Specialist & Resilience Architect. Building exploits, breaking assumptions, and bending protocols._
 
