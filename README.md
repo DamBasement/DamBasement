@@ -20,7 +20,7 @@ I'm a resilience architect and offensive security professional with a deep focus
 
 Now operating within high assurance environments. Active on CTFs, writeups, and offensive research.
 
-Certifications: **CRTO**, **OSCP**.
+Certifications: **CRTO**, **OSCP**, **OSWP**.
 
 ---
 
