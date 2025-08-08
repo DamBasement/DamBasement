@@ -10,13 +10,11 @@
 
 ### 👤 About  
 AppSec + Offensive Security, **privacy-first**.  
-Think like the attacker, build like the defender.  
 
 - Adversary simulation & red teaming  
-- Web/API exploitation — SQLi, XSS, SSRF, auth/access bypass  
+- Web/API exploitation
 - Offensive privacy — fingerprinting, metadata leaks, deanonymization  
-- Protocol RE — TLS quirks to embedded systems  
-- Custom tooling — Python, Bash, C  
+- Custom tooling — Python, Bash 
 
 **Certifications:** CRTO • OSCP • OSWP  
 
