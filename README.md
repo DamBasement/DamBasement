@@ -3,7 +3,7 @@
 > _Offensive Security Specialist & Resilience Architect. Building exploits, breaking assumptions, and bending protocols._
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5lcHc0aWp2Nm00N2R5MnhwcGc3NjFqNmxteXVzYTVoNzR1dHVpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CW16nFVXLSQxSMUEMd/giphy.gif" width="500"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajEzN2R2MWxxb2VtMjFsa2o2eXNxbTFhbzZyOG44YnFmOHZya3JlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TNqMlgTuv5jJ6/giphy.gif" width="500"/>
 </div>
 
 ---
