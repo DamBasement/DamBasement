@@ -10,28 +10,35 @@
 
 ### 👤 About
 
-I'm a resilience architect and offensive security professional with a deep focus on:
+I'm an application security and offensive security professional with a privacy-first mindset, blending adversary techniques with a defensive-by-design approach.
 
-- Adversary simulation & red teaming  
-- Wi-Fi and radio protocol exploitation (WEP, WPA2/Enterprise, PMKID, rogue AP)  
-- Embedded & automotive reverse engineering (CAN, UDS, OTA spoofing)  
-- System architecture for critical infrastructure and cross-domain solutions  
-- Custom tooling development in Python/Bash/C for attack surface extension
+Focus areas:
 
-Now operating within high assurance environments. Active on CTFs, writeups, and offensive research.
+Adversary simulation & red teaming for web, API, and complex systems.
 
-Certifications: **CRTO**, **OSCP**, **OSWP**.
+Application security exploitation — SQLi, XSS, SSRF, access control & authentication bypass.
+
+Offensive privacy research — browser fingerprinting, metadata leaks, deanonymization vectors.
+
+Protocol analysis & reverse engineering — from TLS quirks to embedded systems.
+
+Custom tooling in Python/Bash/C to extend attack surfaces and simulate real-world threats.
+
+Currently active in high assurance environments, contributing to open-source privacy/security projects, and publishing technical writeups on offensive techniques & privacy hardening.
+
+Certifications: CRTO, OSCP, OSWP.
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
-- 🐧 Linux (Debian-based) | Wireshark | Aircrack-ng | hostapd-wpe | hcxdumptool  
-- 🐍 Python | Bash | C | custom protocol fuzzers  
-- 🔍 Burp Suite Pro | ffuf | mitmproxy | TLS/PKI analysis  
-- 🔩 Docker | Git | static/dynamic RE (Ghidra, radare2, binwalk, qiling)  
+🐧 Linux-first workflows (Debian-based) | Hardened setups | Network/protocol analyzers (Wireshark, mitmproxy)
 
-I build my own testing environments, wireless labs, and often operate over SSH-only constrained systems.
+🐍 Python | Bash | C — exploit dev, PoC automation, custom fuzzers
+
+🔍 Web & API security — Burp Suite Pro, ffuf, custom HTTP tooling, TLS/PKI fingerprinting & analysis
+
+📡 Privacy-focused research — browser fingerprinting toolchains, metadata leak detection, deanonymization testing
 
 ---
 
@@ -41,17 +48,8 @@ Most of my public repos serve as:
 
 - Operational reference for wireless attacks  
 - Red team PoC tooling  
-- Notes and automation for reverse engineering tasks  
-- Threat modeling scripts for cross-domain architecture reviews
 
 Check: [github.com/DamBasement/DamBasement](https://github.com/DamBasement/DamBasement)
-
----
-
-### 📫 Contact
-
-Ping me: `nikita@protonmail.com`  
-I don't use PGP yet — just drop it clear.
 
 ---
 
