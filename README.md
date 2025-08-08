@@ -33,8 +33,6 @@ AppSec + Offensive Security, **privacy-first**.
 - Red team PoCs  
 - Privacy/security hardening  
 
-[**github.com/DamBasement**](https://github.com/DamBasement)  
-
 ---
 
 > _No telemetry. No trust. Brutalist by design._
