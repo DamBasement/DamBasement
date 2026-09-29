@@ -1,6 +1,6 @@
-# [0xD4nt3] Damiano Bassani  
+# [0xD4nt3]   
 
-> _Offensive Security & Privacy. Exploits, breakpoints, and protocol abuse._  
+> _Offensive Security, Ransomware adversary emulation & threat intelligence._  
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RzemczcGxucHhvaW15N205ZnQxN2hrMTY4cmRnY2V5bnJraHRzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nIlgTxY29wJuU/giphy.gif" width="500"/>
@@ -9,30 +9,14 @@
 ---
 
 ### 👤 About  
-AppSec + Offensive Security, **privacy-first**.  
+I build threat-informed adversary emulation plans for ransomware groups: real-world TTPs → MITRE ATT&CK → lab reproduction → detection. I work the bridge between offensive and detection engineering. Getting dirty to see how a real actor operates end-to-end and how you catch it.  
 
-- Adversary simulation & red teaming  
-- Web/API exploitation
-- Offensive privacy — fingerprinting, metadata leaks, deanonymization  
-- Custom tooling — Python, Bash 
+Focus
+🎯 Ransomware adversary emulation + RaaS threat intelligence
+🛡️ Detection engineering — Sigma, MITRE ATT&CK
+🤖 AI / LLM security & agentic attack surfaces
 
 **Certifications:** CRTO • OSCP • OSWP  
-
+ 
 ---
-
-### 🧰 Stack  
-🐧 Linux (Debian) • Wireshark • mitmproxy  
-🐍 Python • Bash  
-🔍 Burp Suite • ffuf • TLS/PKI analysis  
-📡 Privacy tooling • fingerprinting kits  
-
----
-
-### 🗂️ GitHub Focus  
-- Wireless attack workflows  
-- Red team PoCs  
-- Privacy/security hardening  
-
----
-
-> _No telemetry. No trust. Brutalist by design._
+> No trust. Brutalist by design._
