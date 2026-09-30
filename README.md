@@ -3,15 +3,17 @@
 > _Offensive Security, Ransomware adversary emulation & threat intelligence._  
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RzemczcGxucHhvaW15N205ZnQxN2hrMTY4cmRnY2V5bnJraHRzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nIlgTxY29wJuU/giphy.gif" width="500"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhtNTExcXQ4ZW16eGF0NHA2NG0wNjJteXlzcGp1dHRma2N6dHRraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j64kEBJY4JUMlJorr3/giphy.gif" width="700"/>
 </div>  
 
 ---
 
 ### 👤 About  
-I build threat-informed adversary emulation plans for ransomware groups: real-world TTPs → MITRE ATT&CK → lab reproduction → detection. I work the bridge between offensive and detection engineering. Getting dirty to see how a real actor operates end-to-end and how you catch it.  
+I build threat-informed adversary emulation plans for ransomware groups: real-world TTPs → MITRE ATT&CK → lab reproduction → detection. 
+I work the bridge between offensive and detection engineering. 
+Getting dirty to see how a real actor operates end-to-end and how you catch it.  
 
-Focus
+**Focus**
 🎯 Ransomware adversary emulation + RaaS threat intelligence
 🛡️ Detection engineering — Sigma, MITRE ATT&CK
 🤖 AI / LLM security & agentic attack surfaces
