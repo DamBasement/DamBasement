@@ -18,7 +18,7 @@ Getting dirty to see how a real actor operates end-to-end and how you catch it.
 🛡️ Detection engineering — Sigma, MITRE ATT&CK
 🤖 AI / LLM security & agentic attack surfaces
 
-**Certifications:** CRTO • OSCP • OSWP  
+**Certifications:** CRTO • OSCP • OSWP • ISA/IEC 62443
  
 ---
 
