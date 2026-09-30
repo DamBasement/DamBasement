@@ -21,4 +21,4 @@ Getting dirty to see how a real actor operates end-to-end and how you catch it.
 **Certifications:** CRTO • OSCP • OSWP  
  
 ---
-> No trust. Brutalist by design._
+
